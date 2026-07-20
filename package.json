@@ -1,15 +1,17 @@
 {
-    "name": "@rans-beep/bails",
+    "name": "@rans-beep/Bailss",
     "type": "module",
-    "version": "1.1.6",
+    "version": "2.0.0",
     "description": "WhatsApp API Modification By ranstech",
     "keywords": [
     "whatsapp",
-    "baileys"
+    "baileys",
+    "Xandros-Eternal",
+    "RansK2Era!"
     ],
-    "homepage": "https://github.com/rans-beep/bails",
+    "homepage": "https://github.com/rans-beep/Bailss",
     "repository": {
-        "url": "https://github.com/rans-beep/bails"
+        "url": "https://github.com/rans-beep/Bailss"
     },
     "license": "MIT",
     "author": "ranstech",
